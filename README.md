@@ -520,4 +520,4 @@ Expected result:
 
   
 
-Happy coding! :heart:
+Happy coding!
